@@ -1,0 +1,8 @@
+Fujikura_ag4_kw010  KEYWORD1
+read_registers  KEYWORD2
+parse_status    KEYWORD2
+parse_pressure_data KEYWORD2
+parse_pressure_kPa  KEYWORD2
+parse_pressure_mBar KEYWORD2
+read_pressure   KEYWORD2
+scan    KEYWORD2
